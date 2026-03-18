@@ -37,7 +37,7 @@ Watch (or try yourself): User types a tilted trade → MindClaw intercepts with 
 
 **[Launch Live Demo](https://mindclaw-trading-conscience.vercel.app/)** (preloaded bad-history sample - just click "Try Demo" and type a risky trade)
 
-[Embed/link your best demo GIF or short video here - e.g., ![MindClaw Intercept Demo](https://github.com/ScavenGem/MindClaw-Trading-Conscience/raw/main/public/demo-intercept.gif)]
+![MindClaw Intercept Demo](https://github.com/ScavenGem/MindClaw-Trading-Conscience/raw/main/public/MindClaw-demo.gif)
 
 ## Tech (Simple, Clean, Vercel-Ready)
 - Frontend: React + Tailwind CSS (Binance dark theme: charcoal black, gold/yellow accents, dark greys)
