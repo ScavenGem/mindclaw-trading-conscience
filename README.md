@@ -52,10 +52,14 @@ git clone https://github.com/ScavenGem/MindClaw-Trading-Conscience.git
 cd MindClaw-Trading-Conscience
 npm install
 npm run dev
-Future Vision (If This Wins Hearts)Plug into real Binance read-only trade history via OpenClaw Skills
-Telegram/Discord bot mode for on-the-go nudges
-Customizable sensitivity + progress tracking for habit-building
+```
+## Future Vision (If This Wins Hearts)
+- Plug into real Binance read-only trade history via OpenClaw Skills
+- Telegram/Discord bot mode for on-the-go nudges
+- Customizable sensitivity + progress tracking for habit-building
 
-Submitted with  by Scavenger  (@ScavenGems
-), because we've all been there, and no one should tilt alone.Open-source under MIT. Fork, improve, win with us.#BuildOnBinance #OpenClaw
+Submitted with ❤️ by Scavenger 🥷 (@ScavenGems), because we've all been there, and no one should tilt alone.
 
+Open-source under MIT. Fork, improve, win with us.
+
+#BuildOnBinance #OpenClaw
